@@ -52,8 +52,8 @@ Once the user has joined the room, they are taken to the chat screen. The user's
 To clone the repository, run the following command:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/yutnagase/react-websocket-chat.git
+cd react-websocket-chat
 ```
 
 ### Server Setup and Launch
